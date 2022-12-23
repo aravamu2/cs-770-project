@@ -1,0 +1,223 @@
+participant_id,name,line,value,code_1,code_2,code_3,key_phrase
+CE1,font,1,I found the font family of the first notification types more familiar and subtle,positive attribute::appt font,NA,NA,NA
+CE1,font,2,which may have helped me retain information from the notification better,positive outcome::better retention,NA,NA,NA
+CE1,color,1,I found the background color of the first notifications to be more familiar and subtle which may have helped me retain information better,positive attribute::appt background,positive outcome::better retention,NA,NA
+CE1,duration,1,Duration of visibility helped me retain information better by allowing me to finish the word or phrase I was typing and then look at the notification at a convenient time,positive attribute::appt duration,positive outcome::better retention,NA,NA
+CE1,icon,1,Icons may provide a visual to associate with information in a notification,positive attribute::better association,NA,NA,NA
+CE1,icon,2,which could help people retain the information,positive outcome::better retention,NA,NA,NA
+CE1,vibration,1,Short vibrations work well to get my attention to look at the notification,positive attribute::appt vibration,NA,NA,NA
+CE1,vibration,2,but the longer obnoxious ones annoyed me,negative attribute::inappt vibration,NA,NA,NA
+CE1,vibration,3,causing me not to remember the information in the notification,negative outcome::poorer retention,NA,NA,NA
+EC1,font,1,Font family choice helps in retaining and recall when it is something more simple yet readable as it takes less energy to read and then remember where if it’s a good font you can really just scan and then recall,positive attribute::appt font,positive outcome::better retention,NA,NA
+EC1,color,1,The more neutral and basic the background while also be high contrast against the typeface makes reading a push notification easier and that I think helps retention,positive attribute::high-contrast,positive outcome::better retention,NA,NA
+EC1,duration,1,In case I get distracted by something not on the phone having the notification up longer increases the chance I will see and remember it,positive attribute::appt duration,positive outcome::better retention,NA,NA
+EC1,icon,1,I feel like the icons helped remember the general concept of the notification like an email received a shipment delivered or a sports score but I found that it also made me forget the details it seems,positive attribute::appt icon,negative outcome::poorer retention,NA,NA
+EC1,vibration,1,I think vibrations are pretty neutral they I don’t think they help me retain information but they also did not make me forget it either,neutral outcome::no change in retention,NA,NA,NA
+EC2,font,1,The font would catch my attention,positive attribute::appt font,NA,NA,NA
+EC2,font,2,but I almost immediately when back to transcribing with no recollection of the info,negative outcome::poorer retention,NA,NA,NA
+EC2,color,1,The colors made no difference in my ability to transcribe,neutral attribute::negligible,NA,NA,NA
+EC2,color,2,I would glance at each notification and look away regardless of color,neutral attribute::negligible,NA,NA,NA
+EC2,duration,1,Having the notification be on screen longer made it so I paid more attention giving more glances and I feel like that helped me remember some things,positive attribute::appt duration,positive outcome::better retention,NA,NA
+EC2,icon,1,Those made no difference for me,neutral attribute::negligible,NA,NA,NA
+EC2,icon,2,I didn’t even notice them,neutral attribute::negligible,NA,NA,NA
+EC2,vibration,1,The vibrations were what really broke me concentration and made me look at the notification,negative attribute::inappt vibration,negative outcome::distracting,NA,NA
+EC2,vibration,2,If it weren’t for those jolts I would never even stopped typing,negative attribute::inappt vibration,negative outcome::distracting,NA,NA
+EC3,font,1,I didn’t think font mattered much either way,neutral attribute::negligible,neutral outcome::no change in retention,NA,NA
+EC3,color,1,If the background helps with readability and is related in some way to notification it could help with recall,positive attribute::appt background,positive outcome::better retention,NA,NA
+EC3,duration,1,I don’t think longer duration has big impact on retention,neutral outcome::no change in retention,neutral attribute::negligible,NA,NA
+EC3,duration,2,but is distracting for the primary task,negative outcome::distracting,NA,NA,NA
+EC3,icon,1,Visual icons help with remembering the information,positive outcome::better retention,NA,NA,NA
+EC3,icon,2,like for restaurants and weather,NA,NA,NA,NA
+EC3,vibration,1,I thought the vibrations were distracting from the primary task and did not help with recalling information,negative outcome::distracting,negative outcome::poorer retention,NA,NA
+CE2,font,1,The different fonts are confusing and hard to read quickly,negative outcome::hard to read,NA,NA,NA
+CE2,font,2,Maybe if I saw the font again,NA,NA,NA,NA
+CE2,font,3,it would help,NA,NA,NA,NA
+CE2,font,4,but having all different random fonts just makes it confusing,negative attribute::inappt font,NA,NA,NA
+CE2,color,1,The color makes the notification stand out a lot more on the screen and forces me to look at it more,positive attribute::high-contrast,positive attribute::appt background,NA,NA
+CE2,color,2,I can also associate the message with just the color (ex: red for low battery),positive attribute::better association,NA,NA,NA
+CE2,duration,1,I only really look at the notification when it first pops up,neutral attribute::negligible,NA,NA,NA
+CE2,duration,2,so the duration doesn’t effect my memory too much and just causes more distraction,negative outcome::distracting,neutral outcome::no change in retention,NA,NA
+CE2,duration,3,There was one time though where I didn’t get to fully read the notification before it disappeared,NA,NA,NA,NA
+CE2,icon,1,They give a visual cue to what the notification is about,positive attribute::appt icon,NA,NA,NA
+CE2,icon,2,which is easier to remember,positive outcome::better retention,NA,NA,NA
+CE2,icon,3,I don’t really remember what any of the icons were,neutral attribute::negligible,NA,NA,NA
+CE2,icon,4,but I think they helped in my original understanding of the message,positive outcome::better retention,NA,NA,NA
+CE2,vibration,1,They gave my brain a cue that I had a notification,,NA,NA,NA
+CE2,vibration,2,It helped to separate the notifications from the block text in my mind,positive attribute::high-contrast,NA,NA,NA
+CE3,font,1,Bigger font was easier to read quickly and recall,positive attribute::appt font,positive outcome::better retention,NA,NA
+CE3,color,1,The red color was more eye catching,positive attribute::high-contrast,NA,NA,NA
+CE3,duration,1,The longer a notification is up the longer I had to look at it after finishing the word I was typing,positive attribute::appt duration,NA,NA,NA
+CE3,icon,1,Email and grub hub pictures made it clear that I had seen notifications about those topics but did not help me remember small details,positive attribute::better association,neutral outcome::no change in retention,NA,NA
+CE3,vibration,1,The vibrations that lasted a while were just distracting in my opinion they did not seemed to make typing hard and did not help me in remembering info,negative outcome::distracting,neutral outcome::no change in retention,NA,NA
+CE4,font,1,I don’t think that the font helped recall information,neutral outcome::no change in retention,NA,NA,NA
+CE4,font,2,I feel like it just made it more difficult to read,negative outcome::hard to read,NA,NA,NA
+CE4,color,1,Once again,NA,NA,NA,NA
+CE4,color,2,I don’t feel color helped recall at all only added a distraction,negative outcome::distracting,neutral attribute::negligible,NA,NA
+CE4,duration,1,Duration of visibility didn’t help recall information it only prevented me from completing the task,negative outcome::distracting,NA,NA,NA
+CE4,icon,1,I don’t believe icons helped retain information and I didn’t even notice the icons,neutral attribute::negligible,neutral outcome::no change in retention,NA,NA
+CE4,vibration,1,Vibrations didn’t help and they were more annoying than helpful,negative attribute::inappt vibration,NA,NA,NA
+EC4,font,1,Weird font make the notification hard to read,negative outcome::hard to read,NA,NA,NA
+EC4,color,1,Weird color makes words hard to read,negative outcome::hard to read,NA,NA,NA
+EC4,duration,1,Longer duration means longer time to read it,positive attribute::appt duration,NA,NA,NA
+EC4,icon,1,If the icon looks striking then it is more likely for me to look at it and remember information,positive attribute::high-contrast,positive outcome::better retention,NA,NA
+EC4,vibration,1,I don’t care about that,neutral attribute::negligible,NA,NA,NA
+CE5,font,1,Weird and distracting from the rest of scenario so you don’t want to focus on it as it seems obtrusive and disturbing,negative outcome::distracting,negative outcome::irritating,NA,NA
+CE5,color,1,It looks important when in red but the actual content gets lost due to the color,negative outcome::hard to read,NA,NA,NA
+CE5,duration,1,If you want to pay heed to the notification you will do anyway and ignore it even if it sticks,neutral attribute::negligible,NA,NA,NA
+CE5,icon,1,Icons at least remind if the notification needs to be checked right now or not,,NA,NA,NA
+CE5,vibration,1,It’s just distracting and if you want to look at the notification and sound pretty much achieves the same,negative outcome::distracting,NA,NA,NA
+CE6,font,1,Unusual fonts were distracting and took more time to process and read,negative outcome::distracting,negative outcome::hard to read,NA,NA
+CE6,color,1,It was distracting and didn’t really help,negative outcome::distracting,NA,NA,NA
+CE6,duration,1,Once I looked,NA,NA,NA,NA
+CE6,duration,2,I went back to the task at hand and having it longer didn’t help,neutral attribute::negligible,NA,NA,NA
+CE6,icon,1,They didn’t add much in terms of helpfulness and I hardly noticed them at all,neutral attribute::negligible,NA,NA,NA
+CE6,vibration,1,They were annoying and just caused distractions to everything (remembering the info and completing the task),negative outcome::distracting,NA,NA,NA
+EC5,font,1,Some fonts are readable at a fast pace,positive outcome::easy to read,NA,NA,NA
+EC5,color,1,Improves memorability slightly since it’s unique,positive outcome::better retention,NA,NA,NA
+EC5,duration,1,I look at the notification for the same amount of time regardless,neutral attribute::negligible,NA,NA,NA
+EC5,icon,1,Distinct elements improve memorability of an individual notification,positive outcome::better retention,NA,NA,NA
+EC5,vibration,1,Didn’t affect retention much but I knew to look down at the phone in case I was looking up at the iPad screen,neutral outcome::no change in retention,NA,NA,NA
+CE7,font,1,An unorthodox font family is memorable and helped with association,positive outcome::better retention,positive attribute::better association,NA,NA
+CE7,color,1,Background colors caused me to look at the notification for less time,positive attribute::appt background,NA,NA,NA
+CE7,duration,1,Longer duration caused me to look at the notification for more time,,NA,NA,NA
+CE7,icon,1,Some icons helped with association,positive attribute::better association,NA,NA,NA
+CE7,icon,2,the pizza n the Doordash notification,NA,NA,NA,NA
+CE7,vibration,1,Vibrations were distracting and caused me to look at the notifIcation for less time,negative attribute::inappt vibration,negative outcome::distracting,NA,NA
+EC6,font,1,Different font stood out more for better retainment,positive outcome::better retention,NA,NA,NA
+EC6,color,1,Contrasting colors helped me retain those notifications,positive attribute::high-contrast,NA,NA,NA
+EC6,duration,1,Longer duration allowed me to finish parts of the task and look back at the notification,positive attribute::appt duration,NA,NA,NA
+EC6,icon,1,I only kind of remember one of the icons so I don’t think they helped as much,neutral attribute::negligible,NA,NA,NA
+EC6,vibration,1,Vibrations made me look at the notification in kind of a forceful way so I would glance at the notification a few times but it made it difficult to concentrate on the task,negative outcome::distracting,NA,NA,NA
+EC7,font,1,More visually striking font families were easier to recall,positive attribute::high-contrast,positive outcome::better retention,NA,NA
+EC7,color,1,Easier to remember content associated with more vibrant background colors,positive attribute::high-contrast,positive outcome::better retention,NA,NA
+EC7,duration,1,Longer time on screen makes it easier to re-read and remember content,positive attribute::appt duration,positive outcome::better retention,NA,NA
+EC7,icon,1,Distracting icons made it harder to remember content,negative outcome::distracting,negative outcome::poorer retention,NA,NA
+EC7,icon,2,I instead remember the icon,positive outcome::better retention,NA,NA,NA
+EC7,vibration,1,Did not help me retain information,neutral attribute::negligible,NA,NA,NA
+EC7,vibration,2,it acted as a distraction while also trying to transcribe text,negative outcome::distracting,NA,NA,NA
+CE8,font,1,Association with standard alert formats and readability,positive attribute::better association,positive outcome::easy to read,NA,NA
+CE8,color,1,Don’t think it helped me,neutral attribute::negligible,NA,NA,NA
+CE8,color,2,have been trained to ignore notifications that try to seem important,neutral attribute::negligible,NA,NA,NA
+CE8,duration,1,More time to context switch and process,positive attribute::appt duration,NA,NA,NA
+CE8,icon,1,Not sure I noticed hem but might help via visual association,positive attribute::better association,NA,NA,NA
+CE8,vibration,1,Mostly does not serve a purpose when the phone is on hand,neutral attribute::negligible,NA,NA,NA
+CE8,vibration,2,useful to feel it in pocket or in bags,NA,NA,NA,NA
+EC8,font,1,I don’t feel like font as an variable helps me remember more information,NA,NA,NA,NA
+EC8,font,2,It doesn’t hurt though,NA,NA,NA,NA
+EC8,color,1,I feel it helps cuz it offers contrast with the work I am working on,NA,NA,NA,NA
+EC8,color,2,which requires a lot of attention,NA,NA,NA,NA
+EC8,color,3,and the opacity of the notification is high so that I can see it/distracted by it easily,NA,NA,NA,NA
+EC8,duration,1,I feel like it helps to have longer visibility,NA,NA,NA,NA
+EC8,duration,2,But for me as long as it gets my attention,NA,NA,NA,NA
+EC8,duration,3,the duration doesn’t help much,NA,NA,NA,NA
+EC8,icon,1,It doesn’t help me to know where the notification is from to remember it,NA,NA,NA,NA
+EC8,vibration,1,It helps cuz it is hugely distracting and I kinda have to stop the work and see the notification,NA,NA,NA,NA
+CE9,font,1,I cannot recognize the words clearly in short time,NA,NA,NA,NA
+CE9,color,1,It gives impressive contrast to leave the message in my memory,NA,NA,NA,NA
+CE9,duration,1,It doesn’t matter a lot,NA,NA,NA,NA
+CE9,icon,1,I did not see any icon,NA,NA,NA,NA
+CE9,vibration,1,It gives strong impression to leave message in my memory,NA,NA,NA,NA
+EC9,font,1,I paid more attention to notifications with custom font family,NA,NA,NA,NA
+EC9,color,1,I pay more attention to yellow and red notifications,NA,NA,NA,NA
+EC9,duration,1,It’s equally fine as long as they are long enough for me to scan the text,NA,NA,NA,NA
+EC9,icon,1,I did not care about the icons,NA,NA,NA,NA
+EC9,vibration,1,I pay more attention to longer vibrations,NA,NA,NA,NA
+CE10,font,1,It just makes it harder/easier to read,NA,NA,NA,NA
+CE10,font,2,but doesn’t affect my ability to retain/recall,NA,NA,NA,NA
+CE10,color,1,The only time it helped was with the DoorDash case—DoorDash’s logo color is red,NA,NA,NA,NA
+CE10,color,2,and the background color was red too,NA,NA,NA,NA
+CE10,color,3,and that made it easier to retain what I saw,NA,NA,NA,NA
+CE10,duration,1,If I ignore it,NA,NA,NA,NA
+CE10,duration,2,I ignore it—the duration it’s on screen doesn’t matter,NA,NA,NA,NA
+CE10,icon,1,Doesn’t give any extra information from the words,NA,NA,NA,NA
+CE10,vibration,1,I tie vibrations with emergency,NA,NA,NA,NA
+CE10,vibration,2,so if a notification vibrates,NA,NA,NA,NA
+CE10,vibration,3,there’s a good chance I’ll glance at it (not ignore) and retain the first (few) words,NA,NA,NA,NA
+CE11,font,1,It depends on the app,NA,NA,NA,NA
+CE11,font,2,Priority apps are outlook,NA,NA,NA,NA
+CE11,font,3,font family doesn’t play an important role,NA,NA,NA,NA
+CE11,color,1,It depends on the app,NA,NA,NA,NA
+CE11,color,2,Priority apps are outlook,NA,NA,NA,NA
+CE11,color,3,back color doesn’t play an important role,NA,NA,NA,NA
+CE11,duration,1,Because you look at the top of phone multiple times,NA,NA,NA,NA
+CE11,icon,1,It depends on the app,NA,NA,NA,NA
+CE11,icon,2,Priority apps are outlook,NA,NA,NA,NA
+CE11,icon,3,icons doesn’t play an important role,NA,NA,NA,NA
+CE11,vibration,1,Vibrations give us a sense of urgency,NA,NA,NA,NA
+CE11,vibration,2,So notifications become more important,NA,NA,NA,NA
+EC10,font,1,Some fonts are more inviting to attention than others,NA,NA,NA,NA
+EC10,font,2,Fonts family also helps to gauge if something is formal and hence more important or not,NA,NA,NA,NA
+EC10,color,1,Some colors invite more attention than others,NA,NA,NA,NA
+EC10,duration,1,Higher duration of visibility gives you more time to take it in perhaps,NA,NA,NA,NA
+EC10,icon,1,Icons help you get the information in the text without even having to read it completely,NA,NA,NA,NA
+EC10,icon,2,Plus icon helps you decide what information is urgent and relevant for the moment and what information can be looked at later or is unimportant altogether,NA,NA,NA,NA
+EC10,vibration,1,Vibrations really force you to look at the notification even when you are in between something,NA,NA,NA,NA
+EC11,font,1,Font family matters because it is easier to remember non basic fonts,NA,NA,NA,NA
+EC11,font,2,It may not look as nice,NA,NA,NA,NA
+EC11,font,3,but it works,NA,NA,NA,NA
+EC11,color,1,When I see red,NA,NA,NA,NA
+EC11,color,2,I think of urgent,NA,NA,NA,NA
+EC11,color,3,And it is easier to remember something with a feeling attached to it,NA,NA,NA,NA
+EC11,duration,1,Duration helps because it allows you to repeat it to yourself for recall,NA,NA,NA,NA
+EC11,icon,1,Icons help because it attaches meaning to the content,NA,NA,NA,NA
+EC11,icon,2,easier for memory,NA,NA,NA,NA
+EC11,vibration,1,Vibrations help to notice the notification itself,NA,NA,NA,NA
+EC11,vibration,2,therefore it helps in overall recall,NA,NA,NA,NA
+CE12,font,1,I don’t think I really paid attention to the font,NA,NA,NA,NA
+CE12,font,2,I don’t know how exactly it would have affected me remembering but didn’t feel it made any difference,NA,NA,NA,NA
+CE12,color,1,I remember photographically the Ian’s  pizza notification being in red,NA,NA,NA,NA
+CE12,color,2,But don’t recall the others,NA,NA,NA,NA
+CE12,color,3,So I feel color might have not made it really helpful,NA,NA,NA,NA
+CE12,duration,1,I think it gave me more time to delay looking at it,NA,NA,NA,NA
+CE12,duration,2,I missed some notifications because they disappeared by the time I looked at them,NA,NA,NA,NA
+CE12,icon,1,I don’t recall seeing any icons,NA,NA,NA,NA
+CE12,icon,2,Maybe they weren’t helpful at all,NA,NA,NA,NA
+CE12,vibration,1,Vibrations were very distracting,NA,NA,NA,NA
+CE12,vibration,2,I felt I couldn’t  do the task at hand with full concentration,NA,NA,NA,NA
+CE12,vibration,3,It was just annoying and didn’t help me in remembering stuff better,NA,NA,NA,NA
+EC12,font,1,It made content stand out,NA,NA,NA,NA
+EC12,color,1,It is more memorable if the color is distinct,NA,NA,NA,NA
+EC12,duration,1,If it stays for longer then I have more time to look at it,NA,NA,NA,NA
+EC12,icon,1,It associates with the content so it helps,NA,NA,NA,NA
+EC12,vibration,1,It distracted me from tying so it helps,NA,NA,NA,NA
+EC13,font,1,The font family makes the content hard to read,NA,NA,NA,NA
+EC13,font,2,ends up in memorize content inefficiently,NA,NA,NA,NA
+EC13,color,1,It helps me categorize different information,NA,NA,NA,NA
+EC13,duration,1,Longer duration leaves me more time to memorize,NA,NA,NA,NA
+EC13,icon,1,Not in this study,NA,NA,NA,NA
+EC13,icon,2,but I would think different icons associated with different content will be helpful,NA,NA,NA,NA
+EC13,vibration,1,Not really,NA,NA,NA,NA
+EC13,vibration,2,it is actually a little bit scary,NA,NA,NA,NA
+EC13,vibration,3,especially when you focus on another task,NA,NA,NA,NA
+EC13,vibration,4,a sudden vibration disturbs and freeze you a couple of seconds,NA,NA,NA,NA
+EC13,vibration,5,which seems to me harmful in terms of retaining content,NA,NA,NA,NA
+CE13,font,1,The font usually doesn’t matter to focus,NA,NA,NA,NA
+CE13,font,2,Unless the text is in bold,NA,NA,NA,NA
+CE13,color,1,It might help to recall events if it is coded in terms of urgency,NA,NA,NA,NA
+CE13,color,2,Like red being super urgent and so on,NA,NA,NA,NA
+CE13,duration,1,Duration maybe helpful because the information is being flashed for longer,NA,NA,NA,NA
+CE13,icon,1,Icons may just help to recall the context of the notification,NA,NA,NA,NA
+CE13,icon,2,But they are unhelpful otherwise,NA,NA,NA,NA
+CE13,vibration,1,Vibrations are very obtrusive and first instinct would be to silence that,NA,NA,NA,NA
+CE13,vibration,2,So don’t really help with recalling,NA,NA,NA,NA
+CE13,vibration,3,Again this can be coded with urgency,NA,NA,NA,NA
+CE13,vibration,4,which might be helpful,NA,NA,NA,NA
+CE14,font,1,Font family helped me retain information because of how it stuck out in my head,NA,NA,NA,NA
+CE14,color,1,It was easy for me to recognize it as a push notification,NA,NA,NA,NA
+CE14,duration,1,Having it there longer made me notice it more and therefore try and remember it/have it cemented in my mind,NA,NA,NA,NA
+CE14,icon,1,I didn’t really pay attention to icons at all or remember seeing them,NA,NA,NA,NA
+CE14,vibration,1,This was very impactful because it only happened a couple times for me and was very different than just typing the text,NA,NA,NA,NA
+CE15,font,1,Captures unnecessary attention because I’m not used to reading from that font,NA,NA,NA,NA
+CE15,color,1,Captures unnecessary attention because I’m not used to reading with that background color,NA,NA,NA,NA
+CE15,duration,1,I tend to look at it several times if stays for a longer duration,NA,NA,NA,NA
+CE15,icon,1,Helps to remember that application of notification,NA,NA,NA,NA
+CE15,vibration,1,Too distracting,NA,NA,NA,NA
+CE15,vibration,2,almost made me drop the phone,NA,NA,NA,NA
+EC14,font,1,I don’t think I noticed a difference based on font style on how much I remember,NA,NA,NA,NA
+EC14,color,1,The background color distracts from the main task if it is bright,NA,NA,NA,NA
+EC14,color,2,making me pay more attention to the notification,NA,NA,NA,NA
+EC14,duration,1,The longer duration gives me time to finish typing the word or sentence I was working on and then read the notification,NA,NA,NA,NA
+EC14,icon,1,I did not really notice the icons,NA,NA,NA,NA
+EC14,icon,2,I was more focused on the text,NA,NA,NA,NA
+EC14,vibration,1,Vibrations distract from the task,NA,NA,NA,NA
+EC14,vibration,2,making you actively pay attention to the notification,NA,NA,NA,NA
