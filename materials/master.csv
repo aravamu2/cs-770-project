@@ -1,0 +1,407 @@
+participant_id,group,question_id,question,answer,icon,vibration,duration,font,color,score
+CE1,control,Q01,what_day_and_time_was_dinner,Tuesday,NA,NA,NA,NA,NA,0
+CE1,control,Q02,what_place_was_dinner,Mary’s house,NA,NA,NA,NA,NA,0
+CE1,control,Q03,what_was_the_message_from_mary,Idk,NA,NA,NA,NA,NA,0
+CE1,control,Q04,what_item_did_you_order_from_amazon,Monitor,NA,NA,NA,NA,NA,1
+CE1,control,Q05,what_was_the_number_of_missed_calls,6,NA,NA,NA,NA,NA,0
+CE1,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE1,control,Q07,what_was_the_score_in_the_game,16-16,NA,NA,NA,NA,NA,1
+CE1,experiment,Q08,what_day_and_time_was_lecture,Idk,0,1,1,0,0,0
+CE1,experiment,Q09,what_place_was_lecture,Idk,0,1,1,0,0,0
+CE1,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Idk,1,0,0,0,0,0
+CE1,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Idk,1,1,0,0,0,0
+CE1,experiment,Q12,what_was_the_remaining_battery_power,9%,1,0,0,0,1,0
+CE1,experiment,Q13,what_was_the_weather_in_chicago,Cloudy,1,1,0,0,1,1
+CE1,experiment,Q14,what_was_the_temperature_in_chicago,Idk,1,1,0,0,1,0
+CE10,control,Q01,what_day_and_time_was_dinner,N/A,NA,NA,NA,NA,NA,0
+CE10,control,Q02,what_place_was_dinner,N/A,NA,NA,NA,NA,NA,0
+CE10,control,Q03,what_was_the_message_from_mary,N/A,NA,NA,NA,NA,NA,0
+CE10,control,Q04,what_item_did_you_order_from_amazon,N/A,NA,NA,NA,NA,NA,0
+CE10,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE10,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE10,control,Q07,what_was_the_score_in_the_game,Madison 16 vs ? 14,NA,NA,NA,NA,NA,0
+CE10,experiment,Q08,what_day_and_time_was_lecture,N/A,0,0,1,0,0,0
+CE10,experiment,Q09,what_place_was_lecture,N/A,0,0,1,0,0,0
+CE10,experiment,Q10,what_was_the_subject_of_the_email_from_susan,N/A,0,0,0,0,0,0
+CE10,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,I just saw DoorDash and ignored everything after that word,0,0,1,1,1,0
+CE10,experiment,Q12,what_was_the_remaining_battery_power,10%,1,1,1,1,0,0
+CE10,experiment,Q13,what_was_the_weather_in_chicago,N/A,1,0,1,1,0,0
+CE10,experiment,Q14,what_was_the_temperature_in_chicago,N/A,1,0,1,1,0,0
+CE11,control,Q01,what_day_and_time_was_dinner,9:00,NA,NA,NA,NA,NA,0
+CE11,control,Q02,what_place_was_dinner,Fin,NA,NA,NA,NA,NA,1
+CE11,control,Q03,what_was_the_message_from_mary,NA,NA,NA,NA,NA,NA,0
+CE11,control,Q04,what_item_did_you_order_from_amazon,Bag,NA,NA,NA,NA,NA,0
+CE11,control,Q05,what_was_the_number_of_missed_calls,6,NA,NA,NA,NA,NA,0
+CE11,control,Q06,what_was_the_sport_for_the_score_update,5,NA,NA,NA,NA,NA,0
+CE11,control,Q07,what_was_the_score_in_the_game,7,NA,NA,NA,NA,NA,0
+CE11,experiment,Q08,what_day_and_time_was_lecture,Wed 11,1,0,0,1,0,0
+CE11,experiment,Q09,what_place_was_lecture,Hall,1,0,0,1,0,0
+CE11,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Lecture,1,0,1,1,0,1
+CE11,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Fin,0,0,1,0,0,0
+CE11,experiment,Q12,what_was_the_remaining_battery_power,3,1,1,1,0,1,0
+CE11,experiment,Q13,what_was_the_weather_in_chicago,Cold,1,0,0,1,1,0
+CE11,experiment,Q14,what_was_the_temperature_in_chicago,-6,1,0,0,1,1,0
+CE12,control,Q01,what_day_and_time_was_dinner,Tuesday 6:00pm,NA,NA,NA,NA,NA,1
+CE12,control,Q02,what_place_was_dinner,Fresh fin,NA,NA,NA,NA,NA,1
+CE12,control,Q03,what_was_the_message_from_mary,I’m here,NA,NA,NA,NA,NA,1
+CE12,control,Q04,what_item_did_you_order_from_amazon,-,NA,NA,NA,NA,NA,0
+CE12,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE12,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE12,control,Q07,what_was_the_score_in_the_game,16-16,NA,NA,NA,NA,NA,1
+CE12,experiment,Q08,what_day_and_time_was_lecture,-,1,0,0,0,0,0
+CE12,experiment,Q09,what_place_was_lecture,-,1,0,0,0,0,0
+CE12,experiment,Q10,what_was_the_subject_of_the_email_from_susan,-,1,1,1,1,1,0
+CE12,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s pizza,1,0,1,1,1,1
+CE12,experiment,Q12,what_was_the_remaining_battery_power,10,1,0,1,0,1,0
+CE12,experiment,Q13,what_was_the_weather_in_chicago,-,0,1,0,0,1,0
+CE12,experiment,Q14,what_was_the_temperature_in_chicago,47F,0,1,0,0,1,1
+CE13,control,Q01,what_day_and_time_was_dinner,6:00 PM,NA,NA,NA,NA,NA,1
+CE13,control,Q02,what_place_was_dinner,Fresh fin poke,NA,NA,NA,NA,NA,1
+CE13,control,Q03,what_was_the_message_from_mary,I am here,NA,NA,NA,NA,NA,1
+CE13,control,Q04,what_item_did_you_order_from_amazon,-,NA,NA,NA,NA,NA,0
+CE13,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE13,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE13,control,Q07,what_was_the_score_in_the_game,16,NA,NA,NA,NA,NA,0
+CE13,experiment,Q08,what_day_and_time_was_lecture,-,1,0,0,0,1,0
+CE13,experiment,Q09,what_place_was_lecture,Discovery,1,0,0,0,1,1
+CE13,experiment,Q10,what_was_the_subject_of_the_email_from_susan,-,0,1,0,1,1,0
+CE13,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,-,1,0,1,0,0,0
+CE13,experiment,Q12,what_was_the_remaining_battery_power,5%,0,1,1,1,0,1
+CE13,experiment,Q13,what_was_the_weather_in_chicago,-,1,1,1,0,1,0
+CE13,experiment,Q14,what_was_the_temperature_in_chicago,46 F,1,1,1,0,1,1
+CE14,control,Q01,what_day_and_time_was_dinner,6pm on a Monday,NA,NA,NA,NA,NA,1
+CE14,control,Q02,what_place_was_dinner,Ian’s pizza,NA,NA,NA,NA,NA,0
+CE14,control,Q03,what_was_the_message_from_mary,I’m here,NA,NA,NA,NA,NA,1
+CE14,control,Q04,what_item_did_you_order_from_amazon,Monitor,NA,NA,NA,NA,NA,1
+CE14,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE14,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE14,control,Q07,what_was_the_score_in_the_game,13 vs 15,NA,NA,NA,NA,NA,0
+CE14,experiment,Q08,what_day_and_time_was_lecture,Idk,0,1,0,1,1,0
+CE14,experiment,Q09,what_place_was_lecture,No clue,0,1,0,1,1,0
+CE14,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Late work,0,1,0,0,1,0
+CE14,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s pizza,1,0,1,0,1,1
+CE14,experiment,Q12,what_was_the_remaining_battery_power,5%,1,1,1,1,0,1
+CE14,experiment,Q13,what_was_the_weather_in_chicago,Cloudy,1,1,0,1,0,1
+CE14,experiment,Q14,what_was_the_temperature_in_chicago,56,1,1,0,1,0,1
+CE15,control,Q01,what_day_and_time_was_dinner,Tuesday 7 pm,NA,NA,NA,NA,NA,0
+CE15,control,Q02,what_place_was_dinner,Mario’s,NA,NA,NA,NA,NA,0
+CE15,control,Q03,what_was_the_message_from_mary,I’m here,NA,NA,NA,NA,NA,1
+CE15,control,Q04,what_item_did_you_order_from_amazon,Not known,NA,NA,NA,NA,NA,0
+CE15,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE15,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE15,control,Q07,what_was_the_score_in_the_game,"Wisconsin 6,Minnesota 6",NA,NA,NA,NA,NA,0
+CE15,experiment,Q08,what_day_and_time_was_lecture,Wednesday 10 am,0,0,0,0,1,0
+CE15,experiment,Q09,what_place_was_lecture,Hall,0,0,0,0,1,0
+CE15,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Don’t remember,1,0,0,1,1,0
+CE15,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Fresh fin poke,1,0,1,1,0,0
+CE15,experiment,Q12,what_was_the_remaining_battery_power,5%,1,1,1,0,0,1
+CE15,experiment,Q13,what_was_the_weather_in_chicago,Cloudy cold,1,0,1,1,1,1
+CE15,experiment,Q14,what_was_the_temperature_in_chicago,49F,1,0,1,1,1,0
+CE2,control,Q01,what_day_and_time_was_dinner,Tomorrow at 6pm,NA,NA,NA,NA,NA,1
+CE2,control,Q02,what_place_was_dinner,Fins? (Some seafood place),NA,NA,NA,NA,NA,1
+CE2,control,Q03,what_was_the_message_from_mary,I’m here.,NA,NA,NA,NA,NA,1
+CE2,control,Q04,what_item_did_you_order_from_amazon,Pens,NA,NA,NA,NA,NA,0
+CE2,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE2,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE2,control,Q07,what_was_the_score_in_the_game,14-32,NA,NA,NA,NA,NA,0
+CE2,experiment,Q08,what_day_and_time_was_lecture,Today at 2pm,1,0,1,1,1,0
+CE2,experiment,Q09,what_place_was_lecture,Social sciences,1,0,1,1,1,0
+CE2,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Meeting?,0,0,0,0,0,0
+CE2,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s Pizza,1,0,0,1,1,1
+CE2,experiment,Q12,what_was_the_remaining_battery_power,5%,1,0,1,0,1,1
+CE2,experiment,Q13,what_was_the_weather_in_chicago,Cloudy,0,0,1,0,0,1
+CE2,experiment,Q14,what_was_the_temperature_in_chicago,40,0,0,1,0,0,0
+CE3,control,Q01,what_day_and_time_was_dinner,Sunday at 5,NA,NA,NA,NA,NA,0
+CE3,control,Q02,what_place_was_dinner,Applebees,NA,NA,NA,NA,NA,0
+CE3,control,Q03,what_was_the_message_from_mary,I’m ready,NA,NA,NA,NA,NA,1
+CE3,control,Q04,what_item_did_you_order_from_amazon,Monitor,NA,NA,NA,NA,NA,1
+CE3,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE3,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE3,control,Q07,what_was_the_score_in_the_game,16-16,NA,NA,NA,NA,NA,1
+CE3,experiment,Q08,what_day_and_time_was_lecture,11:00 am Tuesday,0,1,1,1,0,0
+CE3,experiment,Q09,what_place_was_lecture,Upstairs,0,1,1,1,0,0
+CE3,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Homework,1,1,1,1,0,0
+CE3,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,A pizza place,1,1,0,1,1,1
+CE3,experiment,Q12,what_was_the_remaining_battery_power,5%,0,0,1,0,1,1
+CE3,experiment,Q13,what_was_the_weather_in_chicago,Sunny,0,0,0,1,1,0
+CE3,experiment,Q14,what_was_the_temperature_in_chicago,54,0,0,0,1,1,0
+CE4,control,Q01,what_day_and_time_was_dinner,4:00,NA,NA,NA,NA,NA,0
+CE4,control,Q02,what_place_was_dinner,Mom’s,NA,NA,NA,NA,NA,0
+CE4,control,Q03,what_was_the_message_from_mary,No clue,NA,NA,NA,NA,NA,0
+CE4,control,Q04,what_item_did_you_order_from_amazon,Monitor,NA,NA,NA,NA,NA,1
+CE4,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE4,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE4,control,Q07,what_was_the_score_in_the_game,16-16,NA,NA,NA,NA,NA,1
+CE4,experiment,Q08,what_day_and_time_was_lecture,Thursday at 1,0,1,0,1,1,0
+CE4,experiment,Q09,what_place_was_lecture,No clue,0,1,0,1,1,0
+CE4,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Don’t remember,0,0,1,1,1,0
+CE4,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Don’t remember,0,1,1,1,0,0
+CE4,experiment,Q12,what_was_the_remaining_battery_power,6%,1,1,0,0,0,1
+CE4,experiment,Q13,what_was_the_weather_in_chicago,Sunny,0,1,0,0,0,0
+CE4,experiment,Q14,what_was_the_temperature_in_chicago,53,0,1,0,0,0,0
+CE5,control,Q01,what_day_and_time_was_dinner,-,NA,NA,NA,NA,NA,0
+CE5,control,Q02,what_place_was_dinner,-,NA,NA,NA,NA,NA,0
+CE5,control,Q03,what_was_the_message_from_mary,I’m here,NA,NA,NA,NA,NA,1
+CE5,control,Q04,what_item_did_you_order_from_amazon,Monitor,NA,NA,NA,NA,NA,1
+CE5,control,Q05,what_was_the_number_of_missed_calls,5,NA,NA,NA,NA,NA,0
+CE5,control,Q06,what_was_the_sport_for_the_score_update,-,NA,NA,NA,NA,NA,0
+CE5,control,Q07,what_was_the_score_in_the_game,16-14,NA,NA,NA,NA,NA,0
+CE5,experiment,Q08,what_day_and_time_was_lecture,-,0,1,1,1,1,0
+CE5,experiment,Q09,what_place_was_lecture,-,0,1,1,1,1,0
+CE5,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Test Scores,1,1,1,1,0,0
+CE5,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,-,1,1,1,1,1,0
+CE5,experiment,Q12,what_was_the_remaining_battery_power,5%,1,1,0,0,1,1
+CE5,experiment,Q13,what_was_the_weather_in_chicago,-,1,1,0,1,0,0
+CE5,experiment,Q14,what_was_the_temperature_in_chicago,-,1,1,0,1,0,0
+CE6,control,Q01,what_day_and_time_was_dinner,Tuesday 7:00pm,NA,NA,NA,NA,NA,0
+CE6,control,Q02,what_place_was_dinner,Chipotle,NA,NA,NA,NA,NA,0
+CE6,control,Q03,what_was_the_message_from_mary,I’m running late,NA,NA,NA,NA,NA,0
+CE6,control,Q04,what_item_did_you_order_from_amazon,Shoes,NA,NA,NA,NA,NA,0
+CE6,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE6,control,Q06,what_was_the_sport_for_the_score_update,Football,NA,NA,NA,NA,NA,1
+CE6,control,Q07,what_was_the_score_in_the_game,16-16,NA,NA,NA,NA,NA,1
+CE6,experiment,Q08,what_day_and_time_was_lecture,Friday 9:00am,1,0,0,1,1,0
+CE6,experiment,Q09,what_place_was_lecture,CS building,1,0,0,1,1,0
+CE6,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Reminder to fill out your course evaluations,1,0,0,0,0,0
+CE6,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s Pizza,0,1,1,0,0,1
+CE6,experiment,Q12,what_was_the_remaining_battery_power,5%,1,0,1,0,1,1
+CE6,experiment,Q13,what_was_the_weather_in_chicago,Sunny,0,1,0,1,1,0
+CE6,experiment,Q14,what_was_the_temperature_in_chicago,30,0,1,0,1,1,0
+CE7,control,Q01,what_day_and_time_was_dinner,Don’t remember,NA,NA,NA,NA,NA,0
+CE7,control,Q02,what_place_was_dinner,Don’t remember,NA,NA,NA,NA,NA,0
+CE7,control,Q03,what_was_the_message_from_mary,I’m here,NA,NA,NA,NA,NA,1
+CE7,control,Q04,what_item_did_you_order_from_amazon,Don’t remember,NA,NA,NA,NA,NA,0
+CE7,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE7,control,Q06,what_was_the_sport_for_the_score_update,Don’t remember,NA,NA,NA,NA,NA,0
+CE7,control,Q07,what_was_the_score_in_the_game,16-16,NA,NA,NA,NA,NA,1
+CE7,experiment,Q08,what_day_and_time_was_lecture,Don’t remember,0,1,1,0,1,0
+CE7,experiment,Q09,what_place_was_lecture,Don’t remember,0,1,1,0,1,0
+CE7,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Don’t remember,0,0,1,1,1,0
+CE7,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s Pizza,0,0,1,0,0,1
+CE7,experiment,Q12,what_was_the_remaining_battery_power,Don’t remember,1,0,1,1,1,0
+CE7,experiment,Q13,what_was_the_weather_in_chicago,Don’t remember,0,0,0,0,0,0
+CE7,experiment,Q14,what_was_the_temperature_in_chicago,Don’t remember,0,0,0,0,0,0
+CE8,control,Q01,what_day_and_time_was_dinner,Thursday 8,NA,NA,NA,NA,NA,0
+CE8,control,Q02,what_place_was_dinner,Ian’s pizza,NA,NA,NA,NA,NA,0
+CE8,control,Q03,what_was_the_message_from_mary,She’s reached.,NA,NA,NA,NA,NA,1
+CE8,control,Q04,what_item_did_you_order_from_amazon,Gloves,NA,NA,NA,NA,NA,0
+CE8,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE8,control,Q06,what_was_the_sport_for_the_score_update,16-10,NA,NA,NA,NA,NA,1
+CE8,control,Q07,what_was_the_score_in_the_game,Football,NA,NA,NA,NA,NA,0
+CE8,experiment,Q08,what_day_and_time_was_lecture,Don’t remember,1,1,0,1,0,0
+CE8,experiment,Q09,what_place_was_lecture,Don’t remember,1,1,0,1,0,0
+CE8,experiment,Q10,what_was_the_subject_of_the_email_from_susan,Lecture today,1,0,1,0,0,1
+CE8,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s pizza,1,1,0,1,1,1
+CE8,experiment,Q12,what_was_the_remaining_battery_power,5,1,1,1,0,0,1
+CE8,experiment,Q13,what_was_the_weather_in_chicago,Cold,0,1,0,1,1,0
+CE8,experiment,Q14,what_was_the_temperature_in_chicago,50,0,1,0,1,1,0
+CE9,control,Q01,what_day_and_time_was_dinner,5:00 PM,NA,NA,NA,NA,NA,0
+CE9,control,Q02,what_place_was_dinner,home,NA,NA,NA,NA,NA,0
+CE9,control,Q03,what_was_the_message_from_mary,I’m here.,NA,NA,NA,NA,NA,1
+CE9,control,Q04,what_item_did_you_order_from_amazon,idk,NA,NA,NA,NA,NA,0
+CE9,control,Q05,what_was_the_number_of_missed_calls,3,NA,NA,NA,NA,NA,1
+CE9,control,Q06,what_was_the_sport_for_the_score_update,idk,NA,NA,NA,NA,NA,0
+CE9,control,Q07,what_was_the_score_in_the_game,idk,NA,NA,NA,NA,NA,1
+CE9,experiment,Q08,what_day_and_time_was_lecture,idk,1,1,0,0,0,0
+CE9,experiment,Q09,what_place_was_lecture,idk,1,1,0,0,0,0
+CE9,experiment,Q10,what_was_the_subject_of_the_email_from_susan,idk,0,0,0,1,0,0
+CE9,experiment,Q11,what_restaurant_did_you_order_from_via_door_dash,idk,1,0,0,0,0,0
+CE9,experiment,Q12,what_was_the_remaining_battery_power,5,0,0,0,1,1,1
+CE9,experiment,Q13,what_was_the_weather_in_chicago,snowy,1,1,1,1,1,0
+CE9,experiment,Q14,what_was_the_temperature_in_chicago,46,1,1,1,1,1,1
+EC1,experiment,Q01,what_day_and_time_was_dinner,630,1,1,0,1,0,0
+EC1,experiment,Q02,what_place_was_dinner,Fresh fin poke,1,1,0,1,0,1
+EC1,experiment,Q03,what_was_the_message_from_mary,Something about studying,0,0,1,1,0,0
+EC1,experiment,Q04,what_item_did_you_order_from_amazon,2 boxes of stuff,1,1,1,1,1,0
+EC1,experiment,Q05,what_was_the_number_of_missed_calls,3,0,0,0,1,0,1
+EC1,experiment,Q06,what_was_the_sport_for_the_score_update,Football,1,0,1,0,0,1
+EC1,experiment,Q07,what_was_the_score_in_the_game,16-16,1,0,1,0,0,1
+EC1,control,Q08,what_day_and_time_was_lecture,Tuesday,NA,NA,NA,NA,NA,0
+EC1,control,Q09,what_place_was_lecture,Idk,NA,NA,NA,NA,NA,0
+EC1,control,Q10,what_was_the_subject_of_the_email_from_susan,Idk,NA,NA,NA,NA,NA,0
+EC1,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s,NA,NA,NA,NA,NA,1
+EC1,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC1,control,Q13,what_was_the_weather_in_chicago,Idk,NA,NA,NA,NA,NA,0
+EC1,control,Q14,what_was_the_temperature_in_chicago,Idk,NA,NA,NA,NA,NA,0
+EC10,experiment,Q01,what_day_and_time_was_dinner,8pm,1,1,0,0,0,0
+EC10,experiment,Q02,what_place_was_dinner,Freshfin,1,1,0,0,0,1
+EC10,experiment,Q03,what_was_the_message_from_mary,Dinner at 8 pm,1,1,0,1,1,0
+EC10,experiment,Q04,what_item_did_you_order_from_amazon,Monitor,0,0,0,1,1,1
+EC10,experiment,Q05,what_was_the_number_of_missed_calls,2,1,1,1,0,0,0
+EC10,experiment,Q06,what_was_the_sport_for_the_score_update,Football,1,1,0,1,0,1
+EC10,experiment,Q07,what_was_the_score_in_the_game,8-Aug,1,1,0,1,0,0
+EC10,control,Q08,what_day_and_time_was_lecture,Thursday 2pm,NA,NA,NA,NA,NA,0
+EC10,control,Q09,what_place_was_lecture,Lecture hall,NA,NA,NA,NA,NA,0
+EC10,control,Q10,what_was_the_subject_of_the_email_from_susan,Dinner at Fin,NA,NA,NA,NA,NA,0
+EC10,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s Pizza,NA,NA,NA,NA,NA,1
+EC10,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC10,control,Q13,what_was_the_weather_in_chicago,Partly cloudy,NA,NA,NA,NA,NA,1
+EC10,control,Q14,what_was_the_temperature_in_chicago,42f,NA,NA,NA,NA,NA,0
+EC11,experiment,Q01,what_day_and_time_was_dinner,Wednesday 6pm,0,0,1,0,1,1
+EC11,experiment,Q02,what_place_was_dinner,Red Fin,0,0,1,0,1,1
+EC11,experiment,Q03,what_was_the_message_from_mary,Pick her up,0,1,0,0,0,0
+EC11,experiment,Q04,what_item_did_you_order_from_amazon,Idk,0,0,0,1,0,0
+EC11,experiment,Q05,what_was_the_number_of_missed_calls,2,0,1,0,1,0,0
+EC11,experiment,Q06,what_was_the_sport_for_the_score_update,Football,0,0,0,0,1,1
+EC11,experiment,Q07,what_was_the_score_in_the_game,MN 19 - WI 16,0,0,0,0,1,0
+EC11,control,Q08,what_day_and_time_was_lecture,Wednesday,NA,NA,NA,NA,NA,0
+EC11,control,Q09,what_place_was_lecture,Discovery building,NA,NA,NA,NA,NA,1
+EC11,control,Q10,what_was_the_subject_of_the_email_from_susan,Blank,NA,NA,NA,NA,NA,0
+EC11,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Red fish,NA,NA,NA,NA,NA,0
+EC11,control,Q12,what_was_the_remaining_battery_power,1%,NA,NA,NA,NA,NA,0
+EC11,control,Q13,what_was_the_weather_in_chicago,Cloudy,NA,NA,NA,NA,NA,1
+EC11,control,Q14,what_was_the_temperature_in_chicago,22°,NA,NA,NA,NA,NA,0
+EC12,experiment,Q01,what_day_and_time_was_dinner,Saturday 6 pm,0,1,1,1,1,1
+EC12,experiment,Q02,what_place_was_dinner,Restaurant,0,1,1,1,1,0
+EC12,experiment,Q03,what_was_the_message_from_mary,Science Seminar,1,0,0,1,0,0
+EC12,experiment,Q04,what_item_did_you_order_from_amazon,Package,1,1,1,1,0,0
+EC12,experiment,Q05,what_was_the_number_of_missed_calls,3,0,0,1,1,0,1
+EC12,experiment,Q06,what_was_the_sport_for_the_score_update,Football,0,1,1,1,0,1
+EC12,experiment,Q07,what_was_the_score_in_the_game,16 vs 16,0,1,1,1,0,1
+EC12,control,Q08,what_day_and_time_was_lecture,Monday,NA,NA,NA,NA,NA,0
+EC12,control,Q09,what_place_was_lecture,Lecture hall,NA,NA,NA,NA,NA,0
+EC12,control,Q10,what_was_the_subject_of_the_email_from_susan,Science seninar,NA,NA,NA,NA,NA,1
+EC12,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Restaurant,NA,NA,NA,NA,NA,0
+EC12,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC12,control,Q13,what_was_the_weather_in_chicago,Rainy,NA,NA,NA,NA,NA,0
+EC12,control,Q14,what_was_the_temperature_in_chicago,52,NA,NA,NA,NA,NA,0
+EC13,experiment,Q01,what_day_and_time_was_dinner,Tuesday 6:00pm,0,1,1,0,1,1
+EC13,experiment,Q02,what_place_was_dinner,Fresh Finn,0,1,1,0,1,1
+EC13,experiment,Q03,what_was_the_message_from_mary,I’m here,0,1,1,0,0,1
+EC13,experiment,Q04,what_item_did_you_order_from_amazon,Motor,0,0,0,0,0,0
+EC13,experiment,Q05,what_was_the_number_of_missed_calls,3,1,1,0,0,1,1
+EC13,experiment,Q06,what_was_the_sport_for_the_score_update,Wisconsin / Minnesota,0,0,1,1,1,0
+EC13,experiment,Q07,what_was_the_score_in_the_game,16-16,0,0,1,1,1,1
+EC13,control,Q08,what_day_and_time_was_lecture,Not remeber,NA,NA,NA,NA,NA,0
+EC13,control,Q09,what_place_was_lecture,Not remember,NA,NA,NA,NA,NA,0
+EC13,control,Q10,what_was_the_subject_of_the_email_from_susan,Not remember,NA,NA,NA,NA,NA,0
+EC13,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Ivan Pizza,NA,NA,NA,NA,NA,1
+EC13,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC13,control,Q13,what_was_the_weather_in_chicago,Partly cloud,NA,NA,NA,NA,NA,1
+EC13,control,Q14,what_was_the_temperature_in_chicago,46F,NA,NA,NA,NA,NA,1
+EC14,experiment,Q01,what_day_and_time_was_dinner,I don’t know,0,1,1,0,1,0
+EC14,experiment,Q02,what_place_was_dinner,I don’t remember,0,1,1,0,1,0
+EC14,experiment,Q03,what_was_the_message_from_mary,I’m here,1,0,1,0,0,1
+EC14,experiment,Q04,what_item_did_you_order_from_amazon,Monitor,1,1,0,0,1,1
+EC14,experiment,Q05,what_was_the_number_of_missed_calls,3,0,1,0,0,0,1
+EC14,experiment,Q06,what_was_the_sport_for_the_score_update,Football,0,0,0,1,1,1
+EC14,experiment,Q07,what_was_the_score_in_the_game,12-Oct,0,0,0,1,1,0
+EC14,control,Q08,what_day_and_time_was_lecture,I don’t remember,NA,NA,NA,NA,NA,0
+EC14,control,Q09,what_place_was_lecture,Discovery center,NA,NA,NA,NA,NA,1
+EC14,control,Q10,what_was_the_subject_of_the_email_from_susan,Seminar,NA,NA,NA,NA,NA,1
+EC14,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s pizza,NA,NA,NA,NA,NA,1
+EC14,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC14,control,Q13,what_was_the_weather_in_chicago,46 and partly cloudy,NA,NA,NA,NA,NA,1
+EC14,control,Q14,what_was_the_temperature_in_chicago,46F,NA,NA,NA,NA,NA,1
+EC2,experiment,Q01,what_day_and_time_was_dinner,7:00 PM,1,0,0,1,0,0
+EC2,experiment,Q02,what_place_was_dinner,Mary,1,0,0,1,0,0
+EC2,experiment,Q03,what_was_the_message_from_mary,Dinner at 7:00,0,1,0,0,1,0
+EC2,experiment,Q04,what_item_did_you_order_from_amazon,Shoes,1,0,1,1,0,0
+EC2,experiment,Q05,what_was_the_number_of_missed_calls,3,0,1,0,0,0,1
+EC2,experiment,Q06,what_was_the_sport_for_the_score_update,Football,0,1,0,1,0,1
+EC2,experiment,Q07,what_was_the_score_in_the_game,Jul-00,0,1,0,1,0,0
+EC2,control,Q08,what_day_and_time_was_lecture,Tuesday 2 pm,NA,NA,NA,NA,NA,0
+EC2,control,Q09,what_place_was_lecture,Engineering Hall,NA,NA,NA,NA,NA,0
+EC2,control,Q10,what_was_the_subject_of_the_email_from_susan,Term paper,NA,NA,NA,NA,NA,0
+EC2,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Chicken wrap,NA,NA,NA,NA,NA,0
+EC2,control,Q12,what_was_the_remaining_battery_power,15%,NA,NA,NA,NA,NA,0
+EC2,control,Q13,what_was_the_weather_in_chicago,Cloudy rain,NA,NA,NA,NA,NA,1
+EC2,control,Q14,what_was_the_temperature_in_chicago,45 degrees,NA,NA,NA,NA,NA,1
+EC3,experiment,Q01,what_day_and_time_was_dinner,6:00 PM,1,1,1,0,0,1
+EC3,experiment,Q02,what_place_was_dinner,Sushi place,1,1,1,0,0,1
+EC3,experiment,Q03,what_was_the_message_from_mary,She’s here,0,0,0,0,1,1
+EC3,experiment,Q04,what_item_did_you_order_from_amazon,A package,0,1,1,0,1,0
+EC3,experiment,Q05,what_was_the_number_of_missed_calls,3,0,1,1,1,1,1
+EC3,experiment,Q06,what_was_the_sport_for_the_score_update,Basketball,1,1,1,0,1,0
+EC3,experiment,Q07,what_was_the_score_in_the_game,No clue,1,1,1,0,1,0
+EC3,control,Q08,what_day_and_time_was_lecture,Tuesday,NA,NA,NA,NA,NA,0
+EC3,control,Q09,what_place_was_lecture,Not sure,NA,NA,NA,NA,NA,0
+EC3,control,Q10,what_was_the_subject_of_the_email_from_susan,Not sure,NA,NA,NA,NA,NA,0
+EC3,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Not sure,NA,NA,NA,NA,NA,0
+EC3,control,Q12,what_was_the_remaining_battery_power,8 percent,NA,NA,NA,NA,NA,0
+EC3,control,Q13,what_was_the_weather_in_chicago,Sunny,NA,NA,NA,NA,NA,0
+EC3,control,Q14,what_was_the_temperature_in_chicago,Not sure,NA,NA,NA,NA,NA,0
+EC4,experiment,Q01,what_day_and_time_was_dinner,Wednesday 18:00,1,0,0,0,1,1
+EC4,experiment,Q02,what_place_was_dinner,Fin,1,0,0,0,1,1
+EC4,experiment,Q03,what_was_the_message_from_mary,I am here,1,0,0,1,0,1
+EC4,experiment,Q04,what_item_did_you_order_from_amazon,Monitor,0,0,1,0,1,1
+EC4,experiment,Q05,what_was_the_number_of_missed_calls,"No idea,  but I know there is a missed call",1,1,0,1,1,0
+EC4,experiment,Q06,what_was_the_sport_for_the_score_update,Football,0,0,0,0,1,1
+EC4,experiment,Q07,what_was_the_score_in_the_game,16-16,0,0,0,0,1,1
+EC4,control,Q08,what_day_and_time_was_lecture,Wednesday 18:00,NA,NA,NA,NA,NA,0
+EC4,control,Q09,what_place_was_lecture,Discovery building,NA,NA,NA,NA,NA,1
+EC4,control,Q10,what_was_the_subject_of_the_email_from_susan,Science seminar,NA,NA,NA,NA,NA,1
+EC4,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Ian’s pizza,NA,NA,NA,NA,NA,1
+EC4,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC4,control,Q13,what_was_the_weather_in_chicago,Partly cloudy,NA,NA,NA,NA,NA,1
+EC4,control,Q14,what_was_the_temperature_in_chicago,46,NA,NA,NA,NA,NA,1
+EC5,experiment,Q01,what_day_and_time_was_dinner,Wednesday at 6 PM,0,1,0,0,1,1
+EC5,experiment,Q02,what_place_was_dinner,Fresh Fin,0,1,0,0,1,1
+EC5,experiment,Q03,what_was_the_message_from_mary,NA,0,0,0,1,0,0
+EC5,experiment,Q04,what_item_did_you_order_from_amazon,Monitor,0,0,1,1,0,1
+EC5,experiment,Q05,what_was_the_number_of_missed_calls,3,1,1,1,0,0,1
+EC5,experiment,Q06,what_was_the_sport_for_the_score_update,Football,1,1,1,0,1,1
+EC5,experiment,Q07,what_was_the_score_in_the_game,16-16,1,1,1,0,1,1
+EC5,control,Q08,what_day_and_time_was_lecture,Tuesday,NA,NA,NA,NA,NA,0
+EC5,control,Q09,what_place_was_lecture,?,NA,NA,NA,NA,NA,0
+EC5,control,Q10,what_was_the_subject_of_the_email_from_susan,?,NA,NA,NA,NA,NA,0
+EC5,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Chipotle,NA,NA,NA,NA,NA,0
+EC5,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC5,control,Q13,what_was_the_weather_in_chicago,Partly Cloudy,NA,NA,NA,NA,NA,1
+EC5,control,Q14,what_was_the_temperature_in_chicago,60,NA,NA,NA,NA,NA,0
+EC6,experiment,Q01,what_day_and_time_was_dinner,7pm Wednesday,0,1,0,1,0,0
+EC6,experiment,Q02,what_place_was_dinner,Orville’s,0,1,0,1,0,0
+EC6,experiment,Q03,what_was_the_message_from_mary,I’m here,0,0,0,1,1,1
+EC6,experiment,Q04,what_item_did_you_order_from_amazon,Monitor,1,0,1,1,0,1
+EC6,experiment,Q05,what_was_the_number_of_missed_calls,3,1,0,1,0,0,1
+EC6,experiment,Q06,what_was_the_sport_for_the_score_update,Football,0,1,1,0,0,1
+EC6,experiment,Q07,what_was_the_score_in_the_game,12-Dec,0,1,1,0,0,0
+EC6,control,Q08,what_day_and_time_was_lecture,Wednesday at 9am,NA,NA,NA,NA,NA,0
+EC6,control,Q09,what_place_was_lecture,CS building,NA,NA,NA,NA,NA,0
+EC6,control,Q10,what_was_the_subject_of_the_email_from_susan,Science seminar,NA,NA,NA,NA,NA,1
+EC6,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Marty’s,NA,NA,NA,NA,NA,0
+EC6,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC6,control,Q13,what_was_the_weather_in_chicago,Sunny,NA,NA,NA,NA,NA,0
+EC6,control,Q14,what_was_the_temperature_in_chicago,35,NA,NA,NA,NA,NA,0
+EC7,experiment,Q01,what_day_and_time_was_dinner,Evening on a weekend,1,0,0,1,1,0
+EC7,experiment,Q02,what_place_was_dinner,Don’t remember,1,0,0,1,1,0
+EC7,experiment,Q03,what_was_the_message_from_mary,Something about school,1,0,1,1,1,0
+EC7,experiment,Q04,what_item_did_you_order_from_amazon,3 of something,1,0,0,0,1,0
+EC7,experiment,Q05,what_was_the_number_of_missed_calls,4,1,1,0,0,1,0
+EC7,experiment,Q06,what_was_the_sport_for_the_score_update,"Wisconsin v Minnesota, football",0,0,0,0,1,1
+EC7,experiment,Q07,what_was_the_score_in_the_game,17 to something,0,0,0,0,1,0
+EC7,control,Q08,what_day_and_time_was_lecture,Don’t remember,NA,NA,NA,NA,NA,0
+EC7,control,Q09,what_place_was_lecture,Science building?,NA,NA,NA,NA,NA,0
+EC7,control,Q10,what_was_the_subject_of_the_email_from_susan,Don’t remember,NA,NA,NA,NA,NA,0
+EC7,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Don’t remember,NA,NA,NA,NA,NA,0
+EC7,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC7,control,Q13,what_was_the_weather_in_chicago,Cloudy,NA,NA,NA,NA,NA,1
+EC7,control,Q14,what_was_the_temperature_in_chicago,50 something,NA,NA,NA,NA,NA,0
+EC8,experiment,Q01,what_day_and_time_was_dinner,Don’t remember,0,1,1,1,1,0
+EC8,experiment,Q02,what_place_was_dinner,Fin,0,1,1,1,1,1
+EC8,experiment,Q03,what_was_the_message_from_mary,I am here,0,0,1,1,0,1
+EC8,experiment,Q04,what_item_did_you_order_from_amazon,Monitor,0,1,1,1,0,1
+EC8,experiment,Q05,what_was_the_number_of_missed_calls,1,0,1,0,0,1,0
+EC8,experiment,Q06,what_was_the_sport_for_the_score_update,Wisconsin vs Minnesota 16:16,0,0,1,0,1,1
+EC8,experiment,Q07,what_was_the_score_in_the_game,16:16,0,0,1,0,1,1
+EC8,control,Q08,what_day_and_time_was_lecture,Don’t remember,NA,NA,NA,NA,NA,0
+EC8,control,Q09,what_place_was_lecture,Don’t remember,NA,NA,NA,NA,NA,0
+EC8,control,Q10,what_was_the_subject_of_the_email_from_susan,Don’t remember,NA,NA,NA,NA,NA,0
+EC8,control,Q11,what_restaurant_did_you_order_from_via_door_dash,Don’t remember,NA,NA,NA,NA,NA,0
+EC8,control,Q12,what_was_the_remaining_battery_power,98?,NA,NA,NA,NA,NA,0
+EC8,control,Q13,what_was_the_weather_in_chicago,Don’t remember,NA,NA,NA,NA,NA,0
+EC8,control,Q14,what_was_the_temperature_in_chicago,Don’t remember,NA,NA,NA,NA,NA,0
+EC9,experiment,Q01,what_day_and_time_was_dinner,Tuesday,0,1,0,1,0,0
+EC9,experiment,Q02,what_place_was_dinner,Freshfin,0,1,0,1,0,1
+EC9,experiment,Q03,what_was_the_message_from_mary,She was there,1,1,1,0,1,1
+EC9,experiment,Q04,what_item_did_you_order_from_amazon,idk,1,0,1,0,1,0
+EC9,experiment,Q05,what_was_the_number_of_missed_calls,3,0,1,1,0,1,1
+EC9,experiment,Q06,what_was_the_sport_for_the_score_update,Football,0,1,0,0,0,1
+EC9,experiment,Q07,what_was_the_score_in_the_game,12-Dec,0,1,0,0,0,0
+EC9,control,Q08,what_day_and_time_was_lecture,idk,NA,NA,NA,NA,NA,0
+EC9,control,Q09,what_place_was_lecture,Discovery building,NA,NA,NA,NA,NA,1
+EC9,control,Q10,what_was_the_subject_of_the_email_from_susan,idk,NA,NA,NA,NA,NA,0
+EC9,control,Q11,what_restaurant_did_you_order_from_via_door_dash,idk,NA,NA,NA,NA,NA,0
+EC9,control,Q12,what_was_the_remaining_battery_power,5%,NA,NA,NA,NA,NA,1
+EC9,control,Q13,what_was_the_weather_in_chicago,Cold,NA,NA,NA,NA,NA,0
+EC9,control,Q14,what_was_the_temperature_in_chicago,idk,NA,NA,NA,NA,NA,0
